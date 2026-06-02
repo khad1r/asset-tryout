@@ -46,3 +46,6 @@ Pada kolom `Nama File Gambar`, **cukup ketikkan nama filenya saja beserta eksten
 * **JANGAN Tulis URL panjang:** `https://cdn.jsdelivr.net/.../tiu_24.png` (Sistem akan membuatkan URL-nya secara otomatis untuk Anda).
 
 Jika gambar tidak muncul di aplikasi Tryout, periksa kembali apakah ada *typo* antara nama file yang Anda ketik di Google Sheets dengan nama file asli yang terunggah di repositori ini.
+
+#### Contoh Link
+`https://cdn.jsdelivr.net/gh/khad1r/asset-tryout@main/img/Bunga+Anggrek+Sedang+2+Tangkai.jpeg`
